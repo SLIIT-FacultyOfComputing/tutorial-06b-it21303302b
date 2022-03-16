@@ -10,6 +10,6 @@ private:
   //    assignDetails() method declaration
   //    display() method declaration
 public:
-  assignDetails();
+  assignDetails(int no,char name[]);
   display();
 };
